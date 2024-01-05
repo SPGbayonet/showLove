@@ -19,7 +19,7 @@
     增加一个圆润的❤️，调整整体的效果
     收到stackoverflow大佬的帮助，知道iOS 17之后可以用keyframeAnimator 来做关键桢动画
 
-
+![img](https://github.com/SPGbayonet/showLove/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2015%20-%202024-01-05%20at%2014.11.54.gif?raw=true)
 
 
 
